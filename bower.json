@@ -1,0 +1,26 @@
+{
+  "name": "d3-bubble-matrix",
+  "description": "Bubble matrix with d3",
+  "version": "0.0.4",
+  "main": "dist/bubble-matrix.js",
+  "authors": ["Gustavo Gard"],
+  "license": "MIT",
+  "keywords": [
+    "d3",
+    "bubble",
+    "matrix",
+    "chart",
+    "bubble-matrix",
+    "bubble-chart"
+  ],
+  "homepage": "https://github.com/gusgard/d3-bubble-matrix",
+  "moduleType": [],
+  "ignore": [
+    "bower_components",
+    ".gitignore"
+  ],
+  "dependencies": {
+    "d3": "^3.5.5",
+    "d3-tip": "^0.6.7"
+  }
+}
